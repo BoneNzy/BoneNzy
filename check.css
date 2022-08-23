@@ -1,0 +1,17 @@
+.flex-container {
+    background-color: rgb(227, 166, 166);
+    width: 35%;
+    margin: auto;
+    justify-content: stretch;
+    /* text-align: center; */
+    display: flex;
+}
+.flex-aside {
+    display: flex;
+    align-items: center;
+    float: right;
+}
+.image {
+    float: left;
+    width: 500px;
+}
