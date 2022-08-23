@@ -1,12 +1,6 @@
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap" rel="stylesheet">
-<h1 align="center" <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DynaPuff&family=Silkscreen&display=swap" rel="stylesheet">
-Welcome To My Eden</h1>
-<h2 align="center" style="font-fmaily: 'Silkscreen';">I am</h2>
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=3040FFE9&width=275&lines=Geremsa+Narzary!" alt="Typing SVG" /></a></h2>
+<h1 align="center">!~𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓣𝓸 𝓜𝔂 𝓔𝓭𝓮𝓷~!</h1>
+<h2 align="center" style="font-fmaily: 'Silkscreen',cursive;">I am</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=3040FFE9&width=270&lines=Geremsa+Narzary!" alt="Typing SVG" /></a></h2>
 
 <!--
 **BoneNzy/BoneNzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
