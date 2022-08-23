@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">I am</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=35&duration=4000&pause=1000&color=000000&lines=Geremsa+Narzary." alt="Typing SVG" /></a></h1>
 
 <!--
 **BoneNzy/BoneNzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
