@@ -2,7 +2,9 @@
 <!-- <h2 align="center" style="font-fmaily: 'Silkscreen',cursive;">I am</h2> -->
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=3040FFE9&center=true&width=250&lines=Yours+Truly;Geremsa+Narzary!" alt="Typing SVG" /></a></h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoneNzy&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+My Github stats
+
+<p align="center"> <img src="(https://github-readme-stats.vercel.app/api?username=BoneNzy&count_private=true&show_icons=true&theme=radical)" alt="BoneNzy"/>
 
 <!--
 **BoneNzy/BoneNzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
