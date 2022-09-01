@@ -5,11 +5,16 @@
 <p align = "center">My fascination with technology stems from my curiosity. Until I was 17 and came to understand how usefull software and technology can be, I used to do basically nothing but watch anime, play games, and study to bring my parents some solace.</p>
 <p align = "center">Then I started to get more and more curious about technology, how they were build.</p>
 <p align = "center">Then I came to know about Git/Github where there's millions of peoples work which are open to check out. Which led me curious about open source and now...</p>
-<b align = "center">Getting started with Open Source.</b>
+<h3 align = "center">Getting started with Open Source.</h3>
 
 <h2 align = "center">Current skillset</h2>
 
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
