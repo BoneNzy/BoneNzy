@@ -7,8 +7,13 @@
 ### ___Pronouns: He/Him.___
 
 <p align = "center">My fascination with technology stems from my curiosity. Until I was 17 and came to understand how usefull software and technology can be, I used to do basically nothing but watch anime, play games, and study to bring my parents some solace.</p>
+
+<p align = "center">My fascination with technology stems from my curiosity. Until I was 17 and came to understand how useful software and technology can be, I used to do basically nothing but watch anime, play games, and study to bring my parents some solace.</p>
+
 <p align = "center">Then I started to get more and more curious about technology, how they were build.</p>
+
 <p align = "center">Then I came to know about Git/Github where there's millions of peoples work which are open to check out. Which led me curious about open source and now...</p>
+
 <h3 align = "center">Getting started with Open Source.</h3>
 
 <h2 align = "center">Current skillset</h2>
