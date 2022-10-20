@@ -1,12 +1,11 @@
 <h1 align="center">!~𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓣𝓸 𝓜𝔂 𝓔𝓭𝓮𝓷~!</h1>
 <!-- <h2 align="center" style="font-fmaily: 'Silkscreen',cursive;">I am</h2> -->
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=3040FFE9&center=true&width=250&lines=Yours+Truly;Geremsa+Narzary!" alt="Typing SVG" /></a></h2>
+<!-- <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=4000&pause=1000&color=3040FFE9&center=true&width=250&lines=Yours+Truly;Geremsa+Narzary!" alt="Typing SVG" /></a></h2> -->
+<h1 align="center">Hi there! :wave: I'm Geremsa Narzary</h1>
 
 ### ___I'm currently working on my project Chill-time.___
-### ___I'm upskilling myself to be a better web developer.___
-### ___Pronouns: He/Him.___
-
-<p align = "center">My fascination with technology stems from my curiosity. Until I was 17 and came to understand how usefull software and technology can be, I used to do basically nothing but watch anime, play games, and study to bring my parents some solace.</p>
+### ___I'm upskilling myself to be a better developer.___
+### ___Art is what I like to do when as a hobby.___
 
 <p align = "center">My fascination with technology stems from my curiosity. Until I was 17 and came to understand how useful software and technology can be, I used to do basically nothing but watch anime, play games, and study to bring my parents some solace.</p>
 
@@ -14,7 +13,7 @@
 
 <p align = "center">Then I came to know about Git/Github where there's millions of peoples work which are open to check out. Which led me curious about open source and now...</p>
 
-<h3 align = "center">Getting started with Open Source.</h3>
+<h3 align = "center">Getting started with Open Source. :heart:</h3>
 
 <h2 align = "center">Current skillset</h2>
 
@@ -37,6 +36,7 @@
 <a href="">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
 </a>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </p>
 
 
