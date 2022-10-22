@@ -6,7 +6,7 @@
 <!-- ### ___I'm currently working on my project Chill-time.___ -->
 ### ___I'm currently Learning Backend Development.___
 ### ___I'm upskilling myself to be a better developer.___
-### ___Sketch/Art is what I like to do when as a hobby.___
+### ___Sketch/Art is what I like to do as a hobby.___
 
 <p align = "center">My fascination with technology stems from my curiosity. Until I was 17 and came to understand how useful software and technology can be, I used to do basically nothing but watch anime, play games, and study to bring my parents some solace.</p>
 
