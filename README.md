@@ -9,4 +9,4 @@
 ---
 
 <h4 style="font-weight: bold;">About me!</h4>
-<p>In my early 20s, working towards development of Northeast India through urban planning.</p>
+<p>In my early 20s, working towards development of Northeast India through urban planning. While building few stuffs along the way.</p>
