@@ -6,5 +6,7 @@
     <h3 color="blue">Backend | GIS | AI Agents | Urban Planning</h3>
 </div>
 
+---
+
 <h4 style="font-weight: bold;">About me!</h4>
 <p>In my early 20s, working towards development of Northeast India through urban planning.</p>
